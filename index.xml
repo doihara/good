@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Goodie</title>
+    <link>https://doihara.github.io/good/</link>
+    <description>Recent content on Goodie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 23:12:28 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doihara.github.io/good/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>One</title>
-      <link>/posts/one/</link>
+      <link>https://doihara.github.io/good/posts/one/</link>
       <pubDate>Tue, 03 Apr 2018 23:12:28 +0200</pubDate>
       
-      <guid>/posts/one/</guid>
+      <guid>https://doihara.github.io/good/posts/one/</guid>
       <description>In the beginning there is light.</description>
     </item>
     
